@@ -1,0 +1,35 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Merriweather', serif;
+}
+p.red {
+    color: red;
+}
+p.blue {
+    color: blue;
+}
+p.green {
+    color: green;
+}
+p.rgb {
+    font-size: 20px;
+}
+p.rgb span {
+    font-size: 14px;
+}
+p.rgb span.red {
+    color: red;
+}
+p.rgb span.green {
+    color: green;
+}
+p.rgb span.blue {
+    color: blue;
+}
